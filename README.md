@@ -26,6 +26,38 @@ The following packages and tools need to be installed:
   - selenium
   - requests
 
+flowchart TD
+    A[Start] --> B[Web Scraping]
+    subgraph Web Scraping
+        B -->|Selenium| C[Login to PoliTo]
+        C --> D[Navigate to Course]
+        D --> E[Download Video]
+    end
+    
+    subgraph Video Processing
+        E -->|MoviePy| F[Extract Audio]
+        F -->|.mp4 to .mp3| G[Audio File]
+    end
+    
+    subgraph Transcription
+        G -->|Whisper AI| H[Raw Transcription]
+        H -->|Save| I[trascrizione.txt]
+    end
+    
+    subgraph Summarization
+        I -->|BART Model| J[Process text chunks]
+        J -->|Generate Summary| K[final_summary.txt]
+    end
+    
+    K --> L[End]
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style L fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style F fill:#bfb,stroke:#333,stroke-width:2px
+    style H fill:#fbf,stroke:#333,stroke-width:2px
+    style J fill:#fbb,stroke:#333,stroke-width:2px
+    
 ## Installation
 
 1. Clone this repository:
