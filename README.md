@@ -66,7 +66,7 @@ If you have a powerful machine, you can run it locally. Note that you might need
 
 The easiest way to get started is using Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
 
 
 #### New to Google Colab? Here's a quick guide:
