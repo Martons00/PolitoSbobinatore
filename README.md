@@ -127,6 +127,8 @@ The following packages and tools need to be installed:
 - Processing time depends on lecture length
 - Summary quality may vary based on audio quality
 - Limited to PoliTo virtual classroom platform
+- Computational expensive, it can take time
+- Bart-Large-CNN will be not very precise or exhausting 
 
 ## Contributing
 
