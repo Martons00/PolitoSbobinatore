@@ -20,7 +20,7 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 
 If you find this project helpful, consider supporting me:
 
- <p align="center"><a href='https://ko-fi.com/martons00' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+ <p align="center"><a href='https://ko-fi.com/martons00' target="_blank" rel="noopener noreferrer"><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
   
 
 ## Table of Contents
@@ -66,7 +66,8 @@ If you have a powerful machine, you can run it locally. Note that you might need
 
 The easiest way to get started is using Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+
 
 #### New to Google Colab? Here's a quick guide:
 
