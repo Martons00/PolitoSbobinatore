@@ -26,39 +26,29 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 ![Frame 237818](https://github.com/user-attachments/assets/3dc076b7-10fa-47e7-8eda-0d93c08e2f2a)
 
 ## Prerequisites
-
 The following packages and tools need to be installed:
+### **System Tools**  
+- Python 3.x  
+- ffmpeg  
+- Chromium Browser  
+- ChromeDriver  
 
-- Python 3.x
-- ffmpeg
-- ChromeDriver
-- Required Python packages:
-  - openai-whisper
-  - moviepy
-  - transformers
-  - torch
-  - selenium
-  - requests
+### **Python Packages**  
+- whisper  
+- moviepy  
+- transformers  
+- torch  
+- selenium  
+- webdriver_manager  
+- requests  
 
     
-## Installation
+## Usage
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/politosbobinatore.git
-cd politosbobinatore
-```
+To use this tool there are two alternives:
+- If You have a powerful machine, you can run it locally (if you run it locally you have to do some additional operations to fix the web scraping part maybe)
+- Use Google Colab [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
 
-2. Install the required packages:
-```bash
-pip install git+https://github.com/openai/whisper.git
-pip install moviepy transformers torch selenium requests
-```
-
-3. Install system dependencies:
-```bash
-sudo apt update
-sudo apt install ffmpeg chromium-browser chromedriver
 ```
 
 ## Configuration
