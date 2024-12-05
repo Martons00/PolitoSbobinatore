@@ -144,7 +144,7 @@ This tool is for educational purposes only. Make sure to comply with Politecnico
 
 MIT License
 
-Copyright (c) 2024 Martons00
+Copyright (c) 2024 Raffaele Martone
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
