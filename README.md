@@ -14,6 +14,22 @@ The future of note-taking is here. Let PolitoSbobinatore be your secret weapon f
 
 A Python-based tool that automatically downloads, transcribes, and summarizes Politecnico di Torino virtual classroom lectures. This tool helps students create study notes from recorded lectures using AI-powered transcription and summarization.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+  - [Local Installation](#1-local-installation-)
+  - [Google Colab (Recommended)](#2-google-colab-recommended-)
+- [Output Files](#output-files)
+- [Prerequisites](#prerequisites)
+  - [System Tools](#system-tools)
+  - [Python Packages](#python-packages)
+- [Technical Details](#technical-details)
+- [Limitations](#limitations)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
+- [License](#license)
+
 ## Features
 
 - 🔐 Automatic login to PoliTo platform
