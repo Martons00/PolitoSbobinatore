@@ -10,6 +10,8 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 - 📝 Transcribes lectures using OpenAI's Whisper model
 - ✍️ Generates summarized notes using BART large model
 - 🤖 Handles long lectures by processing them in chunks
+  
+![Frame 237818](https://github.com/user-attachments/assets/3dc076b7-10fa-47e7-8eda-0d93c08e2f2a)
 
 ## Prerequisites
 
