@@ -1,5 +1,16 @@
 # PolitoSbobinatore 📚
 
+🎓 Are you tired of struggling with messy lecture notes and spending endless hours transcribing recorded lessons? 😫 Say goodbye to those late nights trying to decipher your handwriting or watching hours of video lectures. 
+✨ PolitoSbobinatore is here to revolutionize your study routine! 🚀
+
+Your AI-powered note-taking assistant will handle everything automatically 🤖 - from downloading lecture videos to creating perfect transcriptions and concise summaries. While you focus on understanding concepts 🧠, our advanced AI technology works behind the scenes, transforming lengthy lectures into clear, well-structured study materials. 📚
+
+Stop wasting time on manual transcription and start learning more effectively! 💪 With just one click, PolitoSbobinatore turns your video lectures into comprehensive notes that you can review anytime, anywhere. Transform your academic journey from exhausting to effortless. ⚡️
+
+The future of note-taking is here. Let PolitoSbobinatore be your secret weapon for academic success! 🎯 
+
+*Note: Please use responsibly and in accordance with PoliTo's academic policies.* ⚠️
+
 A Python-based tool that automatically downloads, transcribes, and summarizes Politecnico di Torino virtual classroom lectures. This tool helps students create study notes from recorded lectures using AI-powered transcription and summarization.
 
 ## Features
