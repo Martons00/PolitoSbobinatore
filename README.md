@@ -81,7 +81,7 @@ Before running the notebook:
 2. Enter your course and lecture details
 3. Run all cells in sequence
 
-** 😇 Rest assured, your data will be available exclusively to you and only on your Drive. 😇 **
+😇 **Rest assured, your data will be available exclusively to you and only on your Drive.** 😇
 
 <img width="895" alt="Screenshot 2024-12-05 at 01 32 45" src="https://github.com/user-attachments/assets/7041c1ae-08b5-45df-951d-a2fb68df0c11">
 
