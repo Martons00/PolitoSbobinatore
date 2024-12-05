@@ -43,12 +43,47 @@ The following packages and tools need to be installed:
 - requests  
 
     
-## Usage
+## Usage 🚀
 
-To use this tool there are two alternives:
-- If You have a powerful machine, you can run it locally (if you run it locally you have to do some additional operations to fix the web scraping part maybe)
-- Use Google Colab [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
+There are two ways to use PolitoSbobinatore:
 
+### 1. Local Installation 💻
+
+If you have a powerful machine, you can run it locally. Note that you might need to adjust the web scraping component based on your system configuration.
+
+### 2. Google Colab (Recommended) ☁️
+
+The easiest way to get started is using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
+
+#### New to Google Colab? Here's a quick guide:
+
+1. Click the "Open in Colab" button above
+2. Sign in with your Google account
+3. Create a copy in your Drive by clicking `File → Save a copy in Drive`
+   
+   ![Save to Drive](https://github.com/user-attachments/assets/b78bab3e-e1df-4479-a83f-dcaf79f35337)
+
+4. Select T4 GPU runtime for optimal performance:
+   - Go to `Runtime → Change runtime type`
+   - Select "T4 GPU" from the dropdown menu
+   
+   ![Change Runtime](https://github.com/user-attachments/assets/2ed00145-aad1-4d49-a7fb-a5502fffc0ac)
+
+⚠️ **Important Note**: Free Google Colab has daily usage limits. Use your computation time wisely and consider upgrading to Colab Pro for extended usage.
+
+---
+
+Before running the notebook:
+1. Fill in your PoliTo credentials
+2. Enter your course and lecture details
+3. Run all cells in sequence
+<img width="895" alt="Screenshot 2024-12-05 at 01 32 45" src="https://github.com/user-attachments/assets/7041c1ae-08b5-45df-951d-a2fb68df0c11">
+
+⚠️ **Tips**: Download the transcription.txt and summary.txt and use it in a more complex LLM to a better results. Free Models have some limitations.
+
+The tool will handle the rest automatically! 🎯
 ```
 
 ## Configuration
