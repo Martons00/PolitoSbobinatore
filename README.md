@@ -1,6 +1,7 @@
 # PolitoSbobinatore 📚
 
 🎓 Are you tired of struggling with messy lecture notes and spending endless hours transcribing recorded lessons? 😫 Say goodbye to those late nights trying to decipher your handwriting or watching hours of video lectures. 
+
 ✨ PolitoSbobinatore is here to revolutionize your study routine! 🚀
 
 Your AI-powered note-taking assistant will handle everything automatically 🤖 - from downloading lecture videos to creating perfect transcriptions and concise summaries. While you focus on understanding concepts 🧠, our advanced AI technology works behind the scenes, transforming lengthy lectures into clear, well-structured study materials. 📚
