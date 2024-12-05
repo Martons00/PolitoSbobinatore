@@ -24,24 +24,6 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 - 🤖 Handles long lectures by processing them in chunks
   
 ![Frame 237818](https://github.com/user-attachments/assets/3dc076b7-10fa-47e7-8eda-0d93c08e2f2a)
-
-## Prerequisites
-The following packages and tools need to be installed:
-### **System Tools**  
-- Python 3.x  
-- ffmpeg  
-- Chromium Browser  
-- ChromeDriver  
-
-### **Python Packages**  
-- whisper  
-- moviepy  
-- transformers  
-- torch  
-- selenium  
-- webdriver_manager  
-- requests  
-
     
 ## Usage 🚀
 
@@ -84,18 +66,6 @@ Before running the notebook:
 ⚠️ **Tips**: Download the transcription.txt and summary.txt and use it in a more complex LLM to a better results. Free Models have some limitations.
 
 The tool will handle the rest automatically! 🎯
-```
-
-## Configuration
-
-Before running the script, you need to set up your credentials and course information:
-
-```python
-USERNAME = "your_polito_username"
-PASSWORD = "your_polito_password"
-COURSE_TITLE = "your_course_name"
-LECTURE_TITLE = "specific_lecture_name"
-```
 
 ## Usage
 
@@ -120,6 +90,25 @@ The script will:
 - `audio.mp3`: Extracted audio from the video
 - `trascrizione.txt`: Full transcription of the lecture
 - `final_summary.txt`: Summarized version of the lecture
+
+
+## Prerequisites
+The following packages and tools need to be installed:
+### **System Tools**  
+- Python 3.x  
+- ffmpeg  
+- Chromium Browser  
+- ChromeDriver  
+
+### **Python Packages**  
+- whisper  
+- moviepy  
+- transformers  
+- torch  
+- selenium  
+- webdriver_manager  
+- requests  
+
 
 ## Technical Details
 
