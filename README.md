@@ -16,14 +16,21 @@ The future of note-taking is here. Let PolitoSbobinatore be your secret weapon f
 
 A Python-based tool that automatically downloads, transcribes, and summarizes Politecnico di Torino virtual classroom lectures. This tool helps students create study notes from recorded lectures using AI-powered transcription and summarization.
 
+## Support the Project 💖
+
+If you find this project helpful, consider supporting me:
+- [Ko-fi](https://ko-fi.com/martons00)
+
 ## Table of Contents
 - [PolitoSbobinatore 📚](#politosbobinatore-)
+  - [Support the Project 💖](#support-the-project-)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Usage 🚀](#usage-)
     - [1. Local Installation 💻](#1-local-installation-)
     - [2. Google Colab (Recommended) ☁️](#2-google-colab-recommended-️)
       - [New to Google Colab? Here's a quick guide:](#new-to-google-colab-heres-a-quick-guide)
+  - [⚠️ **Important Note**: Free Google Colab has daily usage limits. Use your computation time wisely and consider upgrading to Colab Pro for extended usage.](#️-important-note-free-google-colab-has-daily-usage-limits-use-your-computation-time-wisely-and-consider-upgrading-to-colab-pro-for-extended-usage)
   - [Output Files](#output-files)
   - [Prerequisites](#prerequisites)
     - [**System Tools**](#system-tools)
