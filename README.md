@@ -83,23 +83,6 @@ Before running the notebook:
 
 The tool will handle the rest automatically! 🎯
 
-## Usage
-
-1. Set up your credentials and course information in the script
-2. Run the script:
-```bash
-python politosbobinatore.py
-```
-
-The script will:
-1. Log in to your PoliTo account
-2. Navigate to the specified course and lecture
-3. Download the lecture video
-4. Convert the video to audio
-5. Transcribe the audio using Whisper
-6. Generate a summarized version using BART
-7. Save both the transcription and summary as text files
-
 ## Output Files
 
 - `video.mp4`: Downloaded lecture video
