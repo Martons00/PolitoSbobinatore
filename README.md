@@ -19,7 +19,9 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 ## Support the Project 💖
 
 If you find this project helpful, consider supporting me:
-- [Ko-fi](https://ko-fi.com/martons00)
+
+ <p align="center"><a href='https://ko-fi.com/martons00' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+  
 
 ## Table of Contents
 - [PolitoSbobinatore 📚](#politosbobinatore-)
