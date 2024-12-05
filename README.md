@@ -1,5 +1,6 @@
+![SfondoPolitoSbobinatore](https://github.com/user-attachments/assets/5de48403-df52-4129-aa76-13939ba5d6f0)
+
 # PolitoSbobinatore 📚
-[Frame 237832.pdf](https://github.com/user-attachments/files/18016027/Frame.237832.pdf)
 
 🎓 Are you tired of struggling with messy lecture notes and spending endless hours transcribing recorded lessons? 😫 Say goodbye to those late nights trying to decipher your handwriting or watching hours of video lectures. 
 
