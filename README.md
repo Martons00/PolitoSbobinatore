@@ -74,13 +74,15 @@ The easiest way to get started is using Google Colab:
    ![Change Runtime](https://github.com/user-attachments/assets/2ed00145-aad1-4d49-a7fb-a5502fffc0ac)
 
 ⚠️ **Important Note**: Free Google Colab has daily usage limits. Use your computation time wisely and consider upgrading to Colab Pro for extended usage.
-
 ---
 
 Before running the notebook:
 1. Fill in your PoliTo credentials
 2. Enter your course and lecture details
 3. Run all cells in sequence
+
+** 😇 Rest assured, your data will be available exclusively to you and only on your Drive. 😇 **
+
 <img width="895" alt="Screenshot 2024-12-05 at 01 32 45" src="https://github.com/user-attachments/assets/7041c1ae-08b5-45df-951d-a2fb68df0c11">
 
 ⚠️ **Tips**: Download the transcription.txt and summary.txt and use it in a more complex LLM to a better results. Free Models have some limitations.
