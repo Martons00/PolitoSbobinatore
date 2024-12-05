@@ -20,11 +20,10 @@ A Python-based tool that automatically downloads, transcribes, and summarizes Po
 
 If you find this project helpful, consider supporting me:
 
- <p align="center">
   <a href='https://ko-fi.com/martons00' target="_blank" rel="noopener noreferrer"><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
- </p>
  
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RaffaeleMartone00)
+
 
 
   
