@@ -121,9 +121,11 @@ Before running the notebook:
 #### New to Google Colab? Here's a quick guide for UniversalSbobinatore:
 
 Before running the notebook:
-1. Upload your video
+1. Upload your video, dragging and drop in the area in the screenshot
 2. Fill the variable with the name of your video 
 3. Run all cells in sequence
+4. 
+<img width="632" alt="Screenshot 2024-12-17 at 14 44 51" src="https://github.com/user-attachments/assets/54ba4a2d-9a34-4558-88c5-c462f959ef27" />
 
 
 ⚠️ **Tips**: Download the transcription.txt and summary.txt and use it in a more complex LLM to a better results. Free Models have some limitations.
