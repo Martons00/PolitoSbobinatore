@@ -16,6 +16,14 @@ The future of note-taking is here. Let PolitoSbobinatore be your secret weapon f
 
 A Python-based tool that automatically downloads, transcribes, and summarizes Politecnico di Torino virtual classroom lectures. This tool helps students create study notes from recorded lectures using AI-powered transcription and summarization.
 
+# Not from Polito? Don't Worry! 🎓✨  
+
+For you, there's **UniversalSbobinatore**! 🚀  
+Simply upload the video of your lecture, and let it do the work for you. 🖥️📚  
+
+No more stress—just smarter learning! 💡✅
+
+
 ## Support the Project 💖
 
 If you find this project helpful, consider supporting me:
@@ -30,14 +38,17 @@ If you find this project helpful, consider supporting me:
 
 ## Table of Contents
 - [PolitoSbobinatore 📚](#politosbobinatore-)
+- [Not from Polito? Don't Worry! 🎓✨](#not-from-polito-dont-worry-)
   - [Support the Project 💖](#support-the-project-)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Usage 🚀](#usage-)
     - [1. Local Installation 💻](#1-local-installation-)
-    - [2. Google Colab (Recommended) ☁️](#2-google-colab-recommended-️)
-      - [New to Google Colab? Here's a quick guide:](#new-to-google-colab-heres-a-quick-guide)
+    - [2. Google Colab PolitoSbobinatore (Recommended) ☁️](#2-google-colab-politosbobinatore-recommended-️)
+    - [3. Google Colab UniversalSbobinatore (Recommended) ☁️](#3-google-colab-universalsbobinatore-recommended-️)
+      - [New to Google Colab? Here's a quick guide for PolitoSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-politosbobinatore)
   - [⚠️ **Important Note**: Free Google Colab has daily usage limits. Use your computation time wisely and consider upgrading to Colab Pro for extended usage.](#️-important-note-free-google-colab-has-daily-usage-limits-use-your-computation-time-wisely-and-consider-upgrading-to-colab-pro-for-extended-usage)
+      - [New to Google Colab? Here's a quick guide for UniversalSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-universalsbobinatore)
   - [Output Files](#output-files)
   - [Prerequisites](#prerequisites)
     - [**System Tools**](#system-tools)
@@ -67,14 +78,20 @@ There are two ways to use PolitoSbobinatore:
 
 If you have a powerful machine, you can run it locally. Note that you might need to adjust the web scraping component based on your system configuration.
 
-### 2. Google Colab (Recommended) ☁️
+### 2. Google Colab PolitoSbobinatore (Recommended) ☁️
 
 The easiest way to get started is using Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qaSuauYw_Ms_iZVlPC0lvlCHsBjQ0DC?usp=sharing)
 
+### 3. Google Colab UniversalSbobinatore (Recommended) ☁️
 
-#### New to Google Colab? Here's a quick guide:
+The easiest way to get started is using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oApOVY0ccpVDnNGTRf55dOmdMscNsRs0?usp=sharing)
+
+
+#### New to Google Colab? Here's a quick guide for PolitoSbobinatore:
 
 1. Click the "Open in Colab" button above
 2. Sign in with your Google account
@@ -99,6 +116,15 @@ Before running the notebook:
 😇 **Rest assured, your data will be available exclusively to you and only on your Drive.** 😇
 
 <img width="895" alt="Screenshot 2024-12-05 at 01 32 45" src="https://github.com/user-attachments/assets/7041c1ae-08b5-45df-951d-a2fb68df0c11">
+
+
+#### New to Google Colab? Here's a quick guide for UniversalSbobinatore:
+
+Before running the notebook:
+1. Upload your video
+2. Fill the variable with the name of your video 
+3. Run all cells in sequence
+
 
 ⚠️ **Tips**: Download the transcription.txt and summary.txt and use it in a more complex LLM to a better results. Free Models have some limitations.
 
