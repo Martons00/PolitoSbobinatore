@@ -23,6 +23,16 @@ Simply upload the video of your lecture, and let it do the work for you. 🖥️
 
 No more stress—just smarter learning! 💡✅
 
+# 📋 PolitoSbobinatore Feedback Form 🚀✨  
+
+Thank you for helping us improve PolitoSbobinatore! 🌟 Your feedback is invaluable in making this tool more effective and user-friendly. Please take a few minutes to evaluate its features and share your thoughts.  
+
+👉 Click the button below to fill out the form:  
+
+[![📝 Fill the Feedback Form](https://img.shields.io/badge/📝_Fill_the_Form-Feedback-blueviolet?style=for-the-badge&logo=googleforms)](https://forms.gle/Caqherexh8jfQxrK6)  
+
+Your insights will help us make PolitoSbobinatore even better! 💡  
+Thank you for your time! 🙌  
 
 ## Support the Project 💖
 
@@ -32,9 +42,6 @@ If you find this project helpful, consider supporting me:
  
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RaffaeleMartone00)
 
-
-
-  
 
 ## Table of Contents
 - [PolitoSbobinatore 📚](#politosbobinatore-)
