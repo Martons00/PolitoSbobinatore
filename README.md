@@ -34,7 +34,7 @@ Thank you for helping us improve PolitoSbobinatore! 🌟 Your feedback is invalu
 Your insights will help us make PolitoSbobinatore even better! 💡  
 Thank you for your time! 🙌  
 
-## Support the Project 💖
+# Support the Project 💖
 
 If you find this project helpful, consider supporting me:
 
@@ -43,32 +43,32 @@ If you find this project helpful, consider supporting me:
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RaffaeleMartone00)
 
 
-## Table of Contents
+# Table of Contents
 - [PolitoSbobinatore \& UniversalSbobinatore 📚](#politosbobinatore--universalsbobinatore-)
 - [Not from Polito? Don't Worry! 🎓✨](#not-from-polito-dont-worry-)
 - [📋 PolitoSbobinatore Feedback Form 🚀✨](#-politosbobinatore-feedback-form-)
-  - [Support the Project 💖](#support-the-project-)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Usage 🚀](#usage-)
-    - [1. Local Installation 💻](#1-local-installation-)
-    - [2. Google Colab PolitoSbobinatore (Recommended) ☁️](#2-google-colab-politosbobinatore-recommended-️)
-    - [3. Google Colab UniversalSbobinatore (Recommended) ☁️](#3-google-colab-universalsbobinatore-recommended-️)
-      - [New to Google Colab? Here's a quick guide for PolitoSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-politosbobinatore)
+- [Support the Project 💖](#support-the-project-)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Usage 🚀](#usage-)
+  - [1. Local Installation 💻](#1-local-installation-)
+  - [2. Google Colab PolitoSbobinatore (Recommended) ☁️](#2-google-colab-politosbobinatore-recommended-️)
+    - [New to Google Colab? Here's a quick guide for PolitoSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-politosbobinatore)
         - [Video Tutorial](#video-tutorial)
   - [⚠️ **Important Note**: Free Google Colab has daily usage limits. Use your computation time wisely and consider upgrading to Colab Pro for extended usage.](#️-important-note-free-google-colab-has-daily-usage-limits-use-your-computation-time-wisely-and-consider-upgrading-to-colab-pro-for-extended-usage)
-      - [New to Google Colab? Here's a quick guide for UniversalSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-universalsbobinatore)
-  - [Output Files](#output-files)
-  - [Prerequisites](#prerequisites)
-    - [**System Tools**](#system-tools)
-    - [**Python Packages**](#python-packages)
-  - [Technical Details](#technical-details)
-  - [Limitations](#limitations)
-  - [Contributing](#contributing)
-  - [Disclaimer](#disclaimer)
-  - [License](#license)
+  - [3. Google Colab UniversalSbobinatore (Recommended) ☁️](#3-google-colab-universalsbobinatore-recommended-️)
+    - [New to Google Colab? Here's a quick guide for UniversalSbobinatore:](#new-to-google-colab-heres-a-quick-guide-for-universalsbobinatore)
+- [Output Files](#output-files)
+- [Prerequisites](#prerequisites)
+  - [**System Tools**](#system-tools)
+  - [**Python Packages**](#python-packages)
+- [Technical Details](#technical-details)
+- [Limitations](#limitations)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 
-## Features
+# Features
 
 - 🔐 Automatic login to PoliTo platform
 - 📥 Downloads lecture videos from Virtual Classroom
@@ -79,15 +79,15 @@ If you find this project helpful, consider supporting me:
   
 ![Frame 237818](https://github.com/user-attachments/assets/3dc076b7-10fa-47e7-8eda-0d93c08e2f2a)
     
-## Usage 🚀
+# Usage 🚀
 
 There are two ways to use PolitoSbobinatore:
 
-### 1. Local Installation 💻
+## 1. Local Installation 💻
 
 If you have a powerful machine, you can run it locally. Note that you might need to adjust the web scraping component based on your system configuration and dependancies.
 
-### 2. Google Colab PolitoSbobinatore (Recommended) ☁️
+## 2. Google Colab PolitoSbobinatore (Recommended) ☁️
 
 The easiest way to get started is using Google Colab:
 
@@ -95,14 +95,7 @@ The easiest way to get started is using Google Colab:
 
 *Video Tutorial Below*
 
-### 3. Google Colab UniversalSbobinatore (Recommended) ☁️
-
-The easiest way to get started is using Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oApOVY0ccpVDnNGTRf55dOmdMscNsRs0?usp=sharing)
-
-
-#### New to Google Colab? Here's a quick guide for PolitoSbobinatore:
+### New to Google Colab? Here's a quick guide for PolitoSbobinatore:
 
 ##### Video Tutorial
 [![Watch the video tutorial](https://img.youtube.com/vi/MYTDU1Junt8/maxresdefault.jpg)](https://youtu.be/MYTDU1Junt8)
@@ -133,7 +126,13 @@ Before running the notebook:
 <img width="895" alt="Screenshot 2024-12-05 at 01 32 45" src="https://github.com/user-attachments/assets/7041c1ae-08b5-45df-951d-a2fb68df0c11">
 
 
-#### New to Google Colab? Here's a quick guide for UniversalSbobinatore:
+## 3. Google Colab UniversalSbobinatore (Recommended) ☁️
+
+The easiest way to get started is using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oApOVY0ccpVDnNGTRf55dOmdMscNsRs0?usp=sharing)
+
+### New to Google Colab? Here's a quick guide for UniversalSbobinatore:
 
 Before running the notebook:
 1. Upload your video, dragging and drop in the area in the screenshot
@@ -147,7 +146,7 @@ Before running the notebook:
 
 The tool will handle the rest automatically! 🎯
 
-## Output Files
+# Output Files
 
 - `video.mp4`: Downloaded lecture video
 - `audio.mp3`: Extracted audio from the video
@@ -155,15 +154,15 @@ The tool will handle the rest automatically! 🎯
 - `final_summary.txt`: Summarized version of the lecture
 
 
-## Prerequisites
+# Prerequisites
 The following packages and tools need to be installed:
-### **System Tools**  
+## **System Tools**  
 - Python 3.x  
 - ffmpeg  
 - Chromium Browser  
 - ChromeDriver  
 
-### **Python Packages**  
+## **Python Packages**  
 - whisper  
 - moviepy  
 - transformers  
@@ -173,7 +172,7 @@ The following packages and tools need to be installed:
 - requests  
 
 
-## Technical Details
+# Technical Details
 
 - Uses Selenium WebDriver for web automation
 - Implements OpenAI's Whisper model for transcription
@@ -181,7 +180,7 @@ The following packages and tools need to be installed:
 - Processes long lectures in chunks of 1024 characters
 - Handles browser automation in headless mode
 
-## Limitations
+# Limitations
 
 - Requires stable internet connection
 - Processing time depends on lecture length
@@ -190,15 +189,15 @@ The following packages and tools need to be installed:
 - Computational expensive, it can take time
 - Bart-Large-CNN will be not very precise or exhausting 
 
-## Contributing
+# Contributing
 
 Feel free to submit issues and pull requests to help improve this tool.
 
-## Disclaimer
+# Disclaimer
 
 This tool is for educational purposes only. Make sure to comply with Politecnico di Torino's policies regarding lecture recordings and content usage.
 
-## License
+# License
 
 MIT License
 
