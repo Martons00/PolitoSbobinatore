@@ -100,6 +100,9 @@ The easiest way to get started is using Google Colab:
 
 #### New to Google Colab? Here's a quick guide for PolitoSbobinatore:
 
+[![Watch the video tutorial](https://img.youtube.com/vi/XPtdWmRqKzE/maxresdefault.jpg)](https://youtu.be/MYTDU1Junt8)
+
+
 1. Click the "Open in Colab" button above
 2. Sign in with your Google account
 3. Create a copy in your Drive by clicking `File → Save a copy in Drive`
