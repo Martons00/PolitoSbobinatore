@@ -83,7 +83,7 @@ There are two ways to use PolitoSbobinatore:
 
 ### 1. Local Installation 💻
 
-If you have a powerful machine, you can run it locally. Note that you might need to adjust the web scraping component based on your system configuration.
+If you have a powerful machine, you can run it locally. Note that you might need to adjust the web scraping component based on your system configuration and dependancies.
 
 ### 2. Google Colab PolitoSbobinatore (Recommended) ☁️
 
