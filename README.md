@@ -43,6 +43,9 @@ If you find this project helpful, consider supporting me:
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RaffaeleMartone00)
 
 
+[![satispayLogo](https://github.com/user-attachments/assets/47c1a538-7b9a-4cee-9b34-6ec1591136f9)](https://web.satispay.com/download/qrcode/S6Y-CON--471B0FCD-7946-4D72-A3BA-ACE837FF9D4F?)
+
+
 # Table of Contents
 - [PolitoSbobinatore \& UniversalSbobinatore 📚](#politosbobinatore--universalsbobinatore-)
 - [Not from Polito? Don't Worry! 🎓✨](#not-from-polito-dont-worry-)
