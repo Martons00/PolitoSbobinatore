@@ -100,8 +100,10 @@ The easiest way to get started is using Google Colab:
 
 ### New to Google Colab? Here's a quick guide for PolitoSbobinatore:
 
-##### Video Tutorial
-[![Watch the video tutorial](https://img.youtube.com/vi/K8NnhIwUqvk/maxresdefault.jpg)]([https://youtu.be/K8NnhIwUqvk](https://youtu.be/K8NnhIwUqvk))
+
+#### Video Tutorial  
+[![Watch the video tutorial](https://img.youtube.com/vi/K8NnhIwUqvk/maxresdefault.jpg)](https://youtu.be/K8NnhIwUqvk)  
+
 
 
 1. Click the "Open in Colab" button above
